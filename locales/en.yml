@@ -610,6 +610,7 @@ en:
       detail_3_vehiclejourney_6: La course %{source_label} (%{source_objectid}) est sur des plages de fréquences qui se chevauchent
       detail_3_vehiclejourney_7: La course %{source_label} (%{source_objectid}) est sur des plages de fréquences qui ne correspondent pas à ses créneaux horaires
       detail_3_vehiclejourney_8: La course %{source_label} (%{source_objectid}) à horaire fixe circule dans l'un des crénaux horaires des courses à fréquence de la mission
+      detail_3_datedservicejourney_1: 'The dated service journey %{source_label} (%{source_objectid} refers to another dated service journey %{target_0_label} (%{target_0_objectid}) that operates on a different day'
       detail_4_accesslink_1_max_size: Attribute %{reference_value} of access link %{source_label} (%{source_objectid}) is too large (%{error_value})
       detail_4_accesslink_1_min_size: Attribute %{reference_value} of access link %{source_label} (%{source_objectid}) is empty or too small (%{error_value})
       detail_4_accesslink_1_pattern: Attribute %{reference_value} of access link %{source_label} (%{source_objectid}) has incorrect format (%{error_value})
